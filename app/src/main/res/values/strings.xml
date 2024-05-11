@@ -10,4 +10,6 @@
     <string name="reg_btn">Create new account</string>
     <string name="btn_to_reg">New here? Join us</string>
     <string name="btn_to_log_in">Back to logging in</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
