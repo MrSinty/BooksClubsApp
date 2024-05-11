@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BooksClubsApp</string>
+    <string name="enter_login">Enter login</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="log_in">Log in</string>
+    <string name="registration_text">Registration</string>
+    <string name="log_in_btn">Log in</string>
+    <string name="reg_btn">Create new account</string>
+    <string name="btn_to_reg">New here? Join us</string>
+    <string name="btn_to_log_in">Back to logging in</string>
+</resources>
